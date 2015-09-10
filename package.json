@@ -1,0 +1,15 @@
+{
+  "name": "mock-hubot-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node --coffee  scriptSpec.coffee"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5",
+    "mock-hubot": "^1.0.6"
+  }
+}
